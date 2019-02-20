@@ -1,0 +1,6 @@
+	1. Proširene su metode:
+	- calculateServiceFeeTN (dodati su parametri "end-to-end-id" , "mcc" i "qr-ips-type")
+	- initiateCreditTransferTN (dodati su parametri "end-to-end-id" , "mcc" i "qr-ips-type")
+
+	Nova metoda:
+	- qrCodeTraceDataTN
